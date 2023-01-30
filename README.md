@@ -10,6 +10,7 @@
 - 🎈 C++ / Algorithm , National awards in [XCPC](https://icpc.global/) / [Lanqiao](https://dasai.lanqiao.cn/) / [GPLT](https://gplt.patest.cn/regulation) / [Robocom](https://www.robocom.com.cn/) / [PAT](https://www.patest.cn/)
 - ⚡ Vue / Java / Electron / Pytorch, National awards in [jsjsj](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/9247917) and [fwwb](http://www.fwwb.org.cn/about/index). 
 - 🔑 Provincial awards in Zhejiang CTF. Good at misc, reverse and web. 
+- ✍ Experts blogger of Alibaba Cloud, Huawei Cloud, CSDN
 - 💻 2 Software copyright, 1 Patent.
 - 📫 Email me at: [gwj1024@qq.com](mailto:gwj1024@qq.com)
 
